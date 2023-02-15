@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DoublyLinkedNode
+comment0.text=\n\ This\ interface\ represents\ doubly\ linked\ list\ node\n\ created\ for\ the\ purpose\ of\ completing\ the\ Data\ Structures\ Map\ projects\n\n\ @author\ Tom\ Bredemeier\n\ @version\ January\ 28,\ 2018\n
+comment1.params=
+comment1.target=DoublyLinkedNode\ getPrevious()
+comment1.text=\n\ Returns\ the\ previous\ (upstream)\ node.\n
+comment2.params=node
+comment2.target=void\ setPrevious(DoublyLinkedNode)
+comment2.text=\n\ Sets\ the\ previous\ node.\n
+comment3.params=
+comment3.target=DoublyLinkedNode\ getNext()
+comment3.text=\n\ Returns\ the\ next\ (downstream)\ node.\n
+comment4.params=node
+comment4.target=void\ setNext(DoublyLinkedNode)
+comment4.text=\n\ Sets\ the\ next\ (downstream)\ node.\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MapItem
+comment0.text=\n\ This\ interface\ represents\ a\ key-value\ pair\ for\ use\ in\ Map\ objects\n\ created\ for\ the\ purpose\ of\ completing\ the\ Data\ Structures\ Map\ projects\n\n\ @author\ Tom\ Bredemeier\n\ @version\ January\ 28,\ 2018\n
+comment1.params=
+comment1.target=java.lang.Object\ getKey()
+comment1.text=\n\ Returns\ the\ key\ of\ this\ MapItem.\n
+comment2.params=
+comment2.target=java.lang.Object\ getValue()
+comment2.text=\n\ Returns\ the\ value\ of\ this\ MapItem.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ a\ string\ representing\ this\ MapItem.\n
+numComments=4

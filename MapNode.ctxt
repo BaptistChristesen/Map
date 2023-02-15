@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MapNode
+comment0.text=\n\ Write\ a\ description\ of\ class\ LinkedMap\ here.\n\n\ @author\ \ (your\ name\ here)\n\ @version\ (today's\ date)\n
+comment1.params=key\ value\ previous\ next
+comment1.target=MapNode(java.lang.Object,\ java.lang.Object,\ DoublyLinkedNode,\ DoublyLinkedNode)
+comment2.params=
+comment2.target=DoublyLinkedNode\ getPrevious()
+comment2.text=\n\ Returns\ the\ previous\ (upstream)\ node.\n
+comment3.params=node
+comment3.target=void\ setPrevious(DoublyLinkedNode)
+comment3.text=\n\ Sets\ the\ previous\ node.\n
+comment4.params=
+comment4.target=DoublyLinkedNode\ getNext()
+comment4.text=\n\ Returns\ the\ next\ (downstream)\ node.\n
+comment5.params=node
+comment5.target=void\ setNext(DoublyLinkedNode)
+comment5.text=\n\ Sets\ the\ next\ (downstream)\ node.\n
+numComments=6

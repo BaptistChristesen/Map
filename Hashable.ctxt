@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hashable
+comment0.text=\n\ This\ a\ mock\ interface\ created\ for\ the\ purpose\ of\ providing\ an\ appropriate\n\ hashIndex\ method\ signature\ for\ completing\ the\ Data\ Structures\ Map\ projects\n\n\ @author\ Tom\ Bredemeier\n\ @version\ January\ 28,\ 2018\n
+comment1.params=key
+comment1.target=int\ hashIndex(java.lang.Object)
+comment1.text=\n\ returns\ a\ hash\ index\ for\ a\ given\ key\n
+numComments=2
